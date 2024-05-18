@@ -1,5 +1,5 @@
 
-![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
+![Radin Ghadiri's banner](https://github.com/e6086ecb-b1f9-49a4-be4a-eacf2ec7ee8f)
 
 ## 👋 &nbsp;Hey there! it's Radin
 
