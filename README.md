@@ -8,7 +8,7 @@
 💡 &nbsp;I like programming and editing.\
 🎓 &nbsp;I'm currently studying more things about andorid developing and python!.\
 🌱 &nbsp;I'm going to learn front-end developing and dot net maui.\
-✍️ &nbsp;In my free time, I pursue Editing or playing games.\
+✍️ &nbsp;In my free time, I fancy editing or studing Chinese.\
 ✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.
 
 ### 🛠 &nbsp;Tech Stack
