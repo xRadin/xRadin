@@ -1,6 +1,4 @@
 
-![Radin Ghadiri's banner](https://github.com/xRadin/xRadin/blob/main/Banner.png?raw=true)
-
 ## 👋 &nbsp;Hey there! it's Radin
 
 ### 👨🏻‍💻 &nbsp;About Me
